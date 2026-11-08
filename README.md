@@ -1,4 +1,4 @@
-# Projeto ERP — Tati Peti Shop
+# Projeto ERP — Tati Pet Shop
 
 > Primeira entrega — Projeto Integrador de Modelagem de Dados
 > Do problema real ao Modelo Conceitual de Dados
